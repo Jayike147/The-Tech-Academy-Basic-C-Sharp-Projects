@@ -1,0 +1,37 @@
+C:\Users\3020\Desktop\Access Exam Folder\Branching Assignment Shipping Quote\Branching Assignment Shipping Quote\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\3020\Desktop\Access Exam Folder\Branching Assignment Shipping Quote\Branching Assignment Shipping Quote\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\3020\Desktop\Access Exam Folder\Branching Assignment Shipping Quote\Branching Assignment Shipping Quote\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\3020\Desktop\Access Exam Folder\Branching Assignment Shipping Quote\Branching Assignment Shipping Quote\bin\Debug\netcoreapp3.1\Branching Assignment Shipping Quote.exe
+C:\Users\3020\Desktop\Access Exam Folder\Branching Assignment Shipping Quote\Branching Assignment Shipping Quote\bin\Debug\netcoreapp3.1\Branching Assignment Shipping Quote.deps.json
+C:\Users\3020\Desktop\Access Exam Folder\Branching Assignment Shipping Quote\Branching Assignment Shipping Quote\bin\Debug\netcoreapp3.1\Branching Assignment Shipping Quote.runtimeconfig.json
+C:\Users\3020\Desktop\Access Exam Folder\Branching Assignment Shipping Quote\Branching Assignment Shipping Quote\bin\Debug\netcoreapp3.1\Branching Assignment Shipping Quote.runtimeconfig.dev.json
+C:\Users\3020\Desktop\Access Exam Folder\Branching Assignment Shipping Quote\Branching Assignment Shipping Quote\bin\Debug\netcoreapp3.1\Branching Assignment Shipping Quote.dll
+C:\Users\3020\Desktop\Access Exam Folder\Branching Assignment Shipping Quote\Branching Assignment Shipping Quote\bin\Debug\netcoreapp3.1\Branching Assignment Shipping Quote.pdb
+C:\Users\3020\Desktop\Access Exam Folder\Branching Assignment Shipping Quote\Branching Assignment Shipping Quote\bin\Debug\netcoreapp3.1\Branching Assignment Shipping Quote.Views.dll
+C:\Users\3020\Desktop\Access Exam Folder\Branching Assignment Shipping Quote\Branching Assignment Shipping Quote\bin\Debug\netcoreapp3.1\Branching Assignment Shipping Quote.Views.pdb
+C:\Users\3020\Desktop\Access Exam Folder\Branching Assignment Shipping Quote\Branching Assignment Shipping Quote\obj\Debug\netcoreapp3.1\Branching Assignment Shipping Quote.csproj.AssemblyReference.cache
+C:\Users\3020\Desktop\Access Exam Folder\Branching Assignment Shipping Quote\Branching Assignment Shipping Quote\obj\Debug\netcoreapp3.1\Branching Assignment Shipping Quote.AssemblyInfoInputs.cache
+C:\Users\3020\Desktop\Access Exam Folder\Branching Assignment Shipping Quote\Branching Assignment Shipping Quote\obj\Debug\netcoreapp3.1\Branching Assignment Shipping Quote.AssemblyInfo.cs
+C:\Users\3020\Desktop\Access Exam Folder\Branching Assignment Shipping Quote\Branching Assignment Shipping Quote\obj\Debug\netcoreapp3.1\Branching Assignment Shipping Quote.csproj.CoreCompileInputs.cache
+C:\Users\3020\Desktop\Access Exam Folder\Branching Assignment Shipping Quote\Branching Assignment Shipping Quote\obj\Debug\netcoreapp3.1\Branching Assignment Shipping Quote.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\3020\Desktop\Access Exam Folder\Branching Assignment Shipping Quote\Branching Assignment Shipping Quote\obj\Debug\netcoreapp3.1\Branching Assignment Shipping Quote.RazorAssemblyInfo.cache
+C:\Users\3020\Desktop\Access Exam Folder\Branching Assignment Shipping Quote\Branching Assignment Shipping Quote\obj\Debug\netcoreapp3.1\Branching Assignment Shipping Quote.RazorAssemblyInfo.cs
+C:\Users\3020\Desktop\Access Exam Folder\Branching Assignment Shipping Quote\Branching Assignment Shipping Quote\obj\Debug\netcoreapp3.1\Branching Assignment Shipping Quote.TagHelpers.input.cache
+C:\Users\3020\Desktop\Access Exam Folder\Branching Assignment Shipping Quote\Branching Assignment Shipping Quote\obj\Debug\netcoreapp3.1\Branching Assignment Shipping Quote.TagHelpers.output.cache
+C:\Users\3020\Desktop\Access Exam Folder\Branching Assignment Shipping Quote\Branching Assignment Shipping Quote\obj\Debug\netcoreapp3.1\Branching Assignment Shipping Quote.RazorCoreGenerate.cache
+C:\Users\3020\Desktop\Access Exam Folder\Branching Assignment Shipping Quote\Branching Assignment Shipping Quote\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\3020\Desktop\Access Exam Folder\Branching Assignment Shipping Quote\Branching Assignment Shipping Quote\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\3020\Desktop\Access Exam Folder\Branching Assignment Shipping Quote\Branching Assignment Shipping Quote\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\3020\Desktop\Access Exam Folder\Branching Assignment Shipping Quote\Branching Assignment Shipping Quote\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\3020\Desktop\Access Exam Folder\Branching Assignment Shipping Quote\Branching Assignment Shipping Quote\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\3020\Desktop\Access Exam Folder\Branching Assignment Shipping Quote\Branching Assignment Shipping Quote\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\3020\Desktop\Access Exam Folder\Branching Assignment Shipping Quote\Branching Assignment Shipping Quote\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\3020\Desktop\Access Exam Folder\Branching Assignment Shipping Quote\Branching Assignment Shipping Quote\obj\Debug\netcoreapp3.1\Branching Assignment Shipping Quote.RazorTargetAssemblyInfo.cache
+C:\Users\3020\Desktop\Access Exam Folder\Branching Assignment Shipping Quote\Branching Assignment Shipping Quote\obj\Debug\netcoreapp3.1\Branching Assignment Shipping Quote.RazorTargetAssemblyInfo.cs
+C:\Users\3020\Desktop\Access Exam Folder\Branching Assignment Shipping Quote\Branching Assignment Shipping Quote\obj\Debug\netcoreapp3.1\Branching Assignment Shipping Quote.Views.pdb
+C:\Users\3020\Desktop\Access Exam Folder\Branching Assignment Shipping Quote\Branching Assignment Shipping Quote\obj\Debug\netcoreapp3.1\staticwebassets\Branching Assignment Shipping Quote.StaticWebAssets.Manifest.cache
+C:\Users\3020\Desktop\Access Exam Folder\Branching Assignment Shipping Quote\Branching Assignment Shipping Quote\obj\Debug\netcoreapp3.1\staticwebassets\Branching Assignment Shipping Quote.StaticWebAssets.xml
+C:\Users\3020\Desktop\Access Exam Folder\Branching Assignment Shipping Quote\Branching Assignment Shipping Quote\obj\Debug\netcoreapp3.1\Branching Assignment Shipping Quote.dll
+C:\Users\3020\Desktop\Access Exam Folder\Branching Assignment Shipping Quote\Branching Assignment Shipping Quote\obj\Debug\netcoreapp3.1\Branching Assignment Shipping Quote.pdb
+C:\Users\3020\Desktop\Access Exam Folder\Branching Assignment Shipping Quote\Branching Assignment Shipping Quote\obj\Debug\netcoreapp3.1\Branching Assignment Shipping Quote.genruntimeconfig.cache
+C:\Users\3020\Desktop\Access Exam Folder\Branching Assignment Shipping Quote\Branching Assignment Shipping Quote\obj\Debug\netcoreapp3.1\Branching Assignment Shipping Quote.csproj.CopyComplete
