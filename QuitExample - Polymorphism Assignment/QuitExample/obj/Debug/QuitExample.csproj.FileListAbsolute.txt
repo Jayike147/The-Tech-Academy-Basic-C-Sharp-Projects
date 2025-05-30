@@ -1,0 +1,7 @@
+C:\Users\3020\source\repos\QuitExample\QuitExample\bin\Debug\QuitExample.exe.config
+C:\Users\3020\source\repos\QuitExample\QuitExample\bin\Debug\QuitExample.exe
+C:\Users\3020\source\repos\QuitExample\QuitExample\bin\Debug\QuitExample.pdb
+C:\Users\3020\source\repos\QuitExample\QuitExample\obj\Debug\QuitExample.csproj.AssemblyReference.cache
+C:\Users\3020\source\repos\QuitExample\QuitExample\obj\Debug\QuitExample.csproj.CoreCompileInputs.cache
+C:\Users\3020\source\repos\QuitExample\QuitExample\obj\Debug\QuitExample.exe
+C:\Users\3020\source\repos\QuitExample\QuitExample\obj\Debug\QuitExample.pdb
